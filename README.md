@@ -5,7 +5,7 @@
 <p align="center">
   <img src="docs/images/robot-hero.png" alt="Team Tafaling LFR robot" width="600"/>
   <br/>
-  <em>📸 Robot photo — placeholder, replace with docs/images/robot-hero.png</em>
+  <!-- <em>📸 Robot photo — placeholder, replace with docs/images/robot-hero.png</em> -->
 </p>
 
 <p align="center">
